@@ -146,15 +146,4 @@ ur_tfidf_vectorizer.pkl
 - Live news verification using News APIs
 - Additional language support
 
-# Requirements
 
-Install all dependencies using
-pip install -r requirements.txt
-
-
-
-
-
-COMSATS University Islamabad
-
-GitHub: https://github.com/YOUR_USERNAME
