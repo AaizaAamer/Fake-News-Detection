@@ -11,11 +11,6 @@ Features
 - LIME explainability for predictions
 - Streamlit UI with light/dark theme
 
-Dataset
-
-English: download from https://www.kaggle.com/datasets/razanaqvi14/real-and-fake-news and place Fake.csv + True.csv 
-Urdu: already included in the repository
-
 
 ## Technologies Used
 
