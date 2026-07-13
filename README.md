@@ -129,6 +129,14 @@ ur_tfidf_vectorizer.pkl
    - Reliability Category
    - Processed Text
 
+
+---
+
+# Future Improvements
+
+- Live news verification using News APIs
+- Additional language support
+
 ---
 
 
@@ -140,10 +148,3 @@ ur_tfidf_vectorizer.pkl
 - The application supports both English and Urdu news articles.
 
 ---
-
-# Future Improvements
-
-- Live news verification using News APIs
-- Additional language support
-
-
