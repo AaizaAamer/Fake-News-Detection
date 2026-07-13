@@ -1,0 +1,33 @@
+# Core
+numpy
+pandas
+scipy
+ 
+# Machine Learning
+scikit-learn
+ 
+# NLP / preprocessing
+nltk
+ 
+# Visualization 
+matplotlib
+seaborn
+wordcloud
+ 
+# Explainability
+lime
+shap
+ 
+# Transformers pipeline 
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+ 
+# Web app
+streamlit
+ 
+# Notebook execution
+jupyter
+notebook
